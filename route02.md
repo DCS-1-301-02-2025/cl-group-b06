@@ -5,6 +5,7 @@
 ```graphviz
 digraph {
     edge [dir=both]
+    八王子国際キャンパス -> 小森自宅 [label=徒歩]
     
 }
 ```
